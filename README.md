@@ -1,4 +1,6 @@
 # sh_training_fun_for_all
+TEST 2
+
 TEST
 
 this is a super coool training project 
