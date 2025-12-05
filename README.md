@@ -1,4 +1,6 @@
 # sh_training_fun_for_all
+TEST 3
+
 TEST 2
 
 TEST
